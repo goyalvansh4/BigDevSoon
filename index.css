@@ -18,6 +18,7 @@ body {
   font-family: 'Poppins', sans-serif;
   width:900px;
   height:650px;
+  margin:0 auto;
 }
 #container{
   width:100%;
