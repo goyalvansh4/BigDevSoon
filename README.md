@@ -1,8 +1,8 @@
-# Business Card Project
+# The Veggie King Project
 
-Stunning website showcasing your skills and personality as a developer.
+Fully responsive landing page website, with optimized layouts.
 
-![Business Card Project preview image](https://cdn.glitch.global/40e9dd22-104f-4c0a-9723-75f09bfd859c/project-preview.png?v=1693328720431)
+![The Veggie King Project preview image](https://cdn.glitch.global/9fe9a1de-089b-4372-91cd-b09fcde0b2e2/project-preview.png?v=1693324749179)
 
 ## Hello to [BigDevSoon](https://bigdevsoon.me/) 👋
 
@@ -12,24 +12,31 @@ Level up your coding skills by building real-world projects with professional de
 
 ## Project brief
 
-Craft a dynamic digital **Business Card** tailored for the modern developer. It's not just an ordinary card, but a vibrant reflection of you. Set the stage for your personal or professional digital presence and ensure you stand out in the vast digital realm.
+Venture forth with **The Veggie King** a fusion of fresh flavors and digital elegance. This landing page is a beacon for healthy food enthusiasts, serving up a visual feast intertwined with the ethos of green dining. Every pixel is poised to captivate, making every visit an experience that's both nourishing and delightful.
 
 ### What you will learn
 
-- **HTML Mastery**: Enhance your foundational HTML skills by crafting a structured and accessible content layout, turning design concepts into interactive web pages.
+- **Dynamic Content Presentation**: Grasp the techniques of showcasing engaging content, from sliding animations to interactive hover effects. Witness how fluid motion and timely transitions can enhance a user's browsing journey.
 
-- **CSS Deep Dive**: Engage with advanced CSS techniques to create full-page backgrounds, center-aligned layouts, and absolute-positioned shapes. Dive into the intricacies of styling different content sections for a polished aesthetic.
+- **Responsive Design Mastery**: Navigate through the challenges of making a website fully adaptable across varying device sizes, from sprawling desktops to compact mobile screens. Learn to pivot layouts and adjust designs to create seamless experiences.
 
-- **Interactive Animations**: Elevate user experience by integrating subtle animations like fade-ins and skeleton loading. This provides a dynamic touch, ensuring a captivating first impression.
+- **Enhanced Navigation Techniques**: Delve into creating smooth scroll experiences, crafting distinct mobile menus, and embedding functional links. Understand the user's navigational journey and optimize it for clarity and speed.
+
+- **SEO and Performance Optimization**: Cultivate a foundational understanding of SEO practices and the importance of website performance. Learn how to boost a site's discoverability and ensure swift, efficient loading times.
 
 ### Requirements
 
-- Create a full-page background with a centered card layout.
-- Add a user contact section on the left of the card with email, phone, and clickable social icons.
-- Add a user image in the center of the card.
-- Add a user info section on the right of the card with name, position, location, description, and technologies.
-- Implement absolute-positioned shapes to improve the layout.
-- Enhance user experience with animations, such as image-loading skeleton animation or fade-in effects.
+- Add navigation with a logo and about us, menu, and contact sections that smoothly scroll the user to respective sections.
+- Add a Hero section with an animated automatic food slider, and slide food every 3-5 seconds to make it feel nice.
+- Add an About Us section with information about the company, and its values.
+- Add a Menu section with the top 3 of the best food, with images, names, and descriptions.
+- Add a Gallery section with images of food, restaurant, and people.
+- Add a Contact section with working hours, address, and phone number.
+- Add a footer with clickable social icons and repetition of the navigation.
+- Implement hover states and zoom-in effects on the website to enhance user experience.
+- Add a separate mobile menu version with a Hamburger icon.
+- Ensure the website is fully responsive for desktop, tablet, and mobile devices.
+- Optimize the website for SEO and Spotlight score.
 
 ## Project assets
 
@@ -43,7 +50,7 @@ Depending on the mode you pick, different assets will be available:
 
 ## How to start
 
-1. Head over to the [project page](https://app.bigdevsoon.me/projects/business-card). Choose between Freerun or Speedrun mode, then click either the "Start Freerun" or "Start Speedrun" button.
+1. Head over to the [project page](https://app.bigdevsoon.me/projects/the-veggie-king). Choose between Freerun or Speedrun mode, then click either the "Start Freerun" or "Start Speedrun" button.
 2. Familiarize yourself with the provided images in the "Assets" section. Optionally, you can download the starter code for the initial boilerplate.
 3. For a full project experience, consider downloading the Figma design.
 4. Dive deep into this `README.md`. It covers everything from implementation hints and project guidelines to how to submit your final piece.
@@ -113,7 +120,7 @@ Celebrating and sharing your accomplishments is a great way to both reinforce yo
 
 1. **Your Solution**: Once you've submitted your solution, it becomes a part of your portfolio. Share your unique solution link directly from your solution page or use our "Share solution" widget. There, you'll find various social platform buttons to help spread the word effortlessly.
 
-2. **Project Page**: Loved the project? Share the [Business Card](https://app.bigdevsoon.me/projects/business-card) with your network. It’s a great way to challenge others and see what they can build.
+2. **Project Page**: Loved the project? Share the [The Veggie King](https://app.bigdevsoon.me/projects/the-veggie-king) with your network. It’s a great way to challenge others and see what they can build.
 
 3. **Invite Friends**: Excited about our platform? Spread the joy! Every time you invite a friend using your unique link found in the Profile or Settings section of our app, and they register, you earn 1 BigToken. Sharing truly is rewarding!
 
